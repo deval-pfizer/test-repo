@@ -6,3 +6,7 @@ height: auto;
 .label {
     font-family: 'Courier New', Courier, monospace;
 }
+
+.button{
+    border-color: black;
+}
